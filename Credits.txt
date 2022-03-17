@@ -41,4 +41,6 @@ Font icons
 Themify icons =
 site: https://themify.me/themify-icons
 
+All
+
 
